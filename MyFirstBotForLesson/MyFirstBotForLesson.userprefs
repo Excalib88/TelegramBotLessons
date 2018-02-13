@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3F71CA3E-584C-49A2-9DA3-88465B8B36C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstBotForLesson/Program.cs">
+    <Files>
+      <File FileName="MyFirstBotForLesson/Program.cs" Line="27" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstBotForLesson PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj/Debug/netcoreapp2.0/MyFirstBotForLesson.csprojResolveAssemblyReference.cache
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj/Debug/netcoreapp2.0/MyFirstBotForLesson.csproj.CoreCompileInputs.cache
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj/Debug/netcoreapp2.0/MyFirstBotForLesson.AssemblyInfoInputs.cache
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj/Debug/netcoreapp2.0/MyFirstBotForLesson.AssemblyInfo.cs
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/bin/Debug/netcoreapp2.0/MyFirstBotForLesson.deps.json
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/bin/Debug/netcoreapp2.0/MyFirstBotForLesson.runtimeconfig.json
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/bin/Debug/netcoreapp2.0/MyFirstBotForLesson.runtimeconfig.dev.json
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/bin/Debug/netcoreapp2.0/MyFirstBotForLesson.dll
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/bin/Debug/netcoreapp2.0/MyFirstBotForLesson.pdb
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj/Debug/netcoreapp2.0/MyFirstBotForLesson.dll
+/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj/Debug/netcoreapp2.0/MyFirstBotForLesson.pdb
