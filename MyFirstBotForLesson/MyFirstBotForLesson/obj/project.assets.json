@@ -8381,11 +8381,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/MyFirstBotForLesson.csproj",
+      "projectUniqueName": "/Users/dmansurov/Documents/GitHub/TelegramBotLessons/MyFirstBotForLesson/MyFirstBotForLesson/MyFirstBotForLesson.csproj",
       "projectName": "MyFirstBotForLesson",
-      "projectPath": "/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/MyFirstBotForLesson.csproj",
+      "projectPath": "/Users/dmansurov/Documents/GitHub/TelegramBotLessons/MyFirstBotForLesson/MyFirstBotForLesson/MyFirstBotForLesson.csproj",
       "packagesPath": "/Users/dmansurov/.nuget/packages/",
-      "outputPath": "/Users/dmansurov/Projects/MyFirstBotForLesson/MyFirstBotForLesson/obj",
+      "outputPath": "/Users/dmansurov/Documents/GitHub/TelegramBotLessons/MyFirstBotForLesson/MyFirstBotForLesson/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
